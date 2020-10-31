@@ -1,0 +1,7 @@
+C:\Users\Alex-PC\source\repos\sandpiles\bin\Debug\sandpiles.exe.config
+C:\Users\Alex-PC\source\repos\sandpiles\bin\Debug\sandpiles.exe
+C:\Users\Alex-PC\source\repos\sandpiles\bin\Debug\sandpiles.pdb
+C:\Users\Alex-PC\source\repos\sandpiles\obj\Debug\sandpiles.csprojAssemblyReference.cache
+C:\Users\Alex-PC\source\repos\sandpiles\obj\Debug\sandpiles.csproj.CoreCompileInputs.cache
+C:\Users\Alex-PC\source\repos\sandpiles\obj\Debug\sandpiles.exe
+C:\Users\Alex-PC\source\repos\sandpiles\obj\Debug\sandpiles.pdb
